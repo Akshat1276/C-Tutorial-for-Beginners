@@ -1,0 +1,1 @@
+C ignores all blank spaces......so you can write a code line after line or in a single line....but we always prefer line after line to increase the readability of the c code for our ease.
