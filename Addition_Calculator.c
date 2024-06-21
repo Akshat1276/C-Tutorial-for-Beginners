@@ -2,7 +2,7 @@
 
 void add(){
   int x, y;
-  printf("pter 1st no. ");
+  printf("nter 1st no. ");
   scanf("%d", &x);
   printf("Enter 2nd no. ");
   scanf("%d", &y);
